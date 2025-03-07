@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm trix-code</h1>
 <h3 align="center">A passionate frontend and backend developer from Czechia📞</h3>
 
-- 🔬 I’m currently working on **2D GAME in Unity**
-
-- 🌱 I’m currently learning **C# , JAVA , SQL**
-
-- 👯️ I’m looking to collaborate on **Game development projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/trix-code](https://github.com/trix-code)
-
-- 📝 How to reach me **tomaskotik08@gmail.com**
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div>
+        - 🔬 I’m currently working on **2D GAME in Unity**<br>
+        - 🌱 I’m currently learning **C# , JAVA , SQL**<br>
+        - 👯️ I’m looking to collaborate on **Game development projects**<br>
+        - 👨‍💻 All of my projects are available at [https://github.com/trix-code](https://github.com/trix-code)<br>
+        - 📝 How to reach me **tomaskotik08@gmail.com**
+    </div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Game Development GIF">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,8 +47,4 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trix-code&show_icons=true&locale=en&layout=compact&langs_count=6&hide=php" alt="trix-code" />
-</p>
-
-<p align="center">
-    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Game Development GIF">
 </p>
