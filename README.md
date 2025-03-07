@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **tomaskotik08@gmail.com**
 
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Game Development GIF">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tomas.kotikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomas.kotikk" height="30" width="40" /></a>
