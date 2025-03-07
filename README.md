@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tomaskotik08@gmail.com**
 
-<img rc="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Game Development GIF">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Game Development GIF">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
