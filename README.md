@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm trix-code</h1>
-<h3 align="center">A passionate frontend and backend developer from czechia📞</h3>
+<h3 align="center">A passionate frontend and backend developer from Czechia📞</h3>
 
 - 🔭 I’m currently working on **2D GAME in Unity**
 
 - 🌱 I’m currently learning **C# , JAVA , PHP**
 
 - 👯 I’m looking to collaborate on **Game development projects**
-
-- 🤝 I’m looking for help with **Optimizing game performance, implementing advanced networking solutions, and refining gameplay balance.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/trix-code](https://github.com/trix-code)
 
