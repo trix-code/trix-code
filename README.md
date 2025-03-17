@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm trix-code</h1>
+<h1 align="center">Hi 👋, I'm Tomáš Kotík</h1>
 <h3 align="center">A passionate frontend and backend developer from czechia📞</h3>
 
 - 🔭 I’m currently working on **2D GAME in Unity**
