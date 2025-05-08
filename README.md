@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomáš Kotík</h1>
 <h3 align="center">A passionate frontend and backend developer from czechia📞</h3>
 
-- 👨‍💻 My portfolio [[https://github.com/trix-code](https://tomaskotik.cz/)]
+- 👨‍💻 My portfolio [[tomaskotik.cz](https://tomaskotik.cz/)]
 
 - 🔭 I’m currently working on **2D GAME in Unity**
 
